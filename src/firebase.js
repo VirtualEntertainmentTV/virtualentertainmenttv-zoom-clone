@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB0IOgLOKXu15qcx8SZUjSi0uZYV5zEArw",
+  apiKey: "",
   authDomain: "virtualentertainmenttv-fc003.firebaseapp.com",
   projectId: "virtualentertainmenttv-fc003",
   storageBucket: "virtualentertainmenttv-fc003.appspot.com",
